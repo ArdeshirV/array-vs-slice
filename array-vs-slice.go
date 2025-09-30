@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	N = 100
+	N = 10000
 )
 
 func main() {
